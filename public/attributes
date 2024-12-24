@@ -1,0 +1,7 @@
+# HALs
+attribute hal_p404_powershare;
+expandattribute hal_p404_powershare true;
+attribute hal_p404_powershare_client;
+expandattribute hal_p404_powershare_client true;
+attribute hal_p404_powershare_server;
+expandattribute hal_p404_powershare_server false;
